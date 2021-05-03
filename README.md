@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Projets récents: 
+- Création d'un bot discord pour la création de sondage
+- Création d'un application react
+
+Passe son temps à :
+- Apprendre des nouvelles technologies
+- Lire 
+- Faire du slackline 
+- Aider les autres
