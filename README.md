@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ccaruyer/ccaruyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**ccaruyer/ccaruyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Etudiante actuellement en LP DIM qui souhaite continuer ces études et apprendre tous les jours de nouvelles choses.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
