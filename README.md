@@ -23,3 +23,6 @@ Projets récents:
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ccaruyer&show_icons=true&theme=buefy" alt="ccaruyer" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaruyer&layout=compact&hide=html&theme=buefy" alt="ccaruyer">
+
+### Support Me
+<a href="https://www.buymeacoffee.com/Erebe"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a onigiri&emoji=🍙&slug=Erebe&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
