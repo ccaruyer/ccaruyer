@@ -7,7 +7,7 @@ Je m'appelle CARUYER Claire, développeuse dans le domaine des ERP/CRM/SRM actue
 Etudiante en licence professionnelle dim développement internet et mobile à calais en alternance chez CERMIX.
 
 Projets récents: 
-- Développemennt d'un bot discord en node js
+- Développemenent d'un bot discord en node js
 
 ### Tools I use
 
