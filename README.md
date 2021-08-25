@@ -4,7 +4,7 @@
 <!--**ccaruyer/ccaruyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Je m'appelle CARUYER Claire, développeuse dans le domaine des ERP/CRM/SRM actuellement.
-Etudiante en licence professionnelle dim développement internet et mobile à calais en alternance chez CERMIX.
+Etudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance chez CERMIX.
 
 Projets récents: 
 - Développemenent d'un bot discord en node js
