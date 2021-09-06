@@ -3,7 +3,8 @@
 
 <!--**ccaruyer/ccaruyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Je me prénome Claire, jeune humaine adorant lire, dessiner, faire de la slackline ([ça](https://www.francetvinfo.fr/sports/sports-extremes/decouverte-la-slackline-l-aventure-sur-un-fil_2462054.html)), développer mais par dessus tout apprendre de nouvelles choses!
+Je me prénome Claire, jeune humaine adorant lire, dessiner, faire de la slackline ([ça](https://www.francetvinfo.fr/sports/sports-extremes/decouverte-la-slackline-l-aventure-sur-un-fil_2462054.html)), développer mais par dessus tout apprendre de nouvelles choses !
+
 Technicienne développement dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
 
 Projets récents: 
