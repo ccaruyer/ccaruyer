@@ -3,11 +3,12 @@
 
 <!--**ccaruyer/ccaruyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Je m'appelle CARUYER Claire, développeuse dans le domaine des ERP/CRM/SRM. 
-Actuellement étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
+Je me prénome Claire, jeune humaine adorant lire, dessiner, faire de la slackline ([ça](https://www.francetvinfo.fr/sports/sports-extremes/decouverte-la-slackline-l-aventure-sur-un-fil_2462054.html)), développer mais par dessus tout apprendre de nouvelles choses!
+Technicienne développement dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
 
 Projets récents: 
-- Développemenent d'un bot discord en node js
+- Développemenent de deux bot discord en node js avec différent système de gestion et différentes commandes.
+- Apprentissage du react
 
 ### Tools I use
 
@@ -24,5 +25,5 @@ Projets récents:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ccaruyer&show_icons=true&theme=buefy" alt="ccaruyer" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaruyer&layout=compact&hide=html&theme=buefy" alt="ccaruyer">
 
-### Support Me
+### Please Support Me
 <a href="https://www.buymeacoffee.com/Erebe"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a onigiri&emoji=🍙&slug=Erebe&button_colour=63b2e3&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
