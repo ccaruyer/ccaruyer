@@ -5,12 +5,16 @@
 
 Je me prénome Claire, jeune humaine adorant lire, dessiner, faire de la slackline ([ça](https://www.francetvinfo.fr/sports/sports-extremes/decouverte-la-slackline-l-aventure-sur-un-fil_2462054.html)), développer mais par dessus tout apprendre de nouvelles choses !
 
-Technicienne développement dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
+J'ai été technicienne développement dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
+Je suis actuellement Cheffe de Projet Informatique chez Chaussexpo.
 
 ### My Projects
 
 - Développemenent de deux bot discord en node js avec différent système de gestion et différentes commandes.
 - Apprentissage du react
+- Remise à niveau en Flutter
+- Apprentissage du C#/ .net
+- Appronfondissement de mes compétences en Excel.
 
 ### Tools I Use
 
