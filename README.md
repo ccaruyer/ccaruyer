@@ -5,7 +5,7 @@
 
 Je me prénome Claire, jeune humaine adorant lire, dessiner, faire de la slackline ([ça](https://www.francetvinfo.fr/sports/sports-extremes/decouverte-la-slackline-l-aventure-sur-un-fil_2462054.html)), développer mais par dessus tout apprendre de nouvelles choses !
 
-J'ai été technicienne développement dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
+J'ai été Ddéveloppeuse Full Stack Java / Angular et assistante cheffe de projet dans le domaine des ERP/CRM/SRM et étudiante en Master I2L Informatique Parcours Ingénierie du Logiciel Libre en alternance.
 Je suis actuellement Cheffe de Projet Informatique chez Chaussexpo.
 
 ### My Projects
